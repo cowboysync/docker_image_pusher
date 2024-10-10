@@ -1,1 +1,1 @@
-busybox
+argoproj/argosay:v2
