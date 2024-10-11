@@ -1,1 +1,1 @@
-argoproj/argosay:v2
+alpine:3.7
