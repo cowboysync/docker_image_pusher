@@ -1,4 +1,1 @@
-debian:9.1
-debian:8.9
-alpine:3.6
-ubuntu:17.10
+openjdk:8
