@@ -1,1 +1,1 @@
-openjdk:8
+grafana/grafana:11.1.5
