@@ -1,2 +1,1 @@
-nginxinc/nginx-unprivileged:1.27-alpine
-kiwigrid/k8s-sidecar:1.27.5
+grafana/promtail:3.0.0
