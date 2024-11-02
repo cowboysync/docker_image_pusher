@@ -1,6 +1,1 @@
-grafana/loki:2.6.1
-grafana/promtail:2.9.3
-grafana/grafana:9.2.4
-curlimages/curl:7.85.0
-busybox:1.31.1
-quay.io/kiwigrid/k8s-sidecar:1.19.2
+grafana/grafana:10.3.3
