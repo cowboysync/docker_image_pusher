@@ -1,1 +1,1 @@
-nicolaka/netshoot:v0.13
+tchiotludo/akhq:0.25.1
