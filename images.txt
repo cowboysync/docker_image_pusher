@@ -1,5 +1,4 @@
-quay.io/jetstack/cert-manager-controller:v1.14.5
-quay.io/jetstack/cert-manager-webhook:v1.14.5
-quay.io/jetstack/cert-manager-cainjector:v1.14.5
-quay.io/jetstack/cert-manager-acmesolver:v1.14.5
-quay.io/jetstack/cert-manager-startupapicheck:v1.14.5
+docker.io/kubernetesui/dashboard-auth:1.2.2
+docker.io/kubernetesui/dashboard-api:1.10.1
+docker.io/kubernetesui/dashboard-web:1.6.0
+docker.io/kubernetesui/dashboard-metrics-scraper:1.2.1
