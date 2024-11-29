@@ -1,1 +1,1 @@
-openjdk:17
+portainer/portainer-ce:2.21.4
