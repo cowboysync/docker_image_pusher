@@ -1,1 +1,1 @@
-ilanyu/golang-reverseproxy
+243309672/golang-reverseproxy:1.0.0
