@@ -1,1 +1,1 @@
-node:20.8.0-alpine
+docker/dockerfile:1
