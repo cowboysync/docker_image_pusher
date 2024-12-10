@@ -1,1 +1,1 @@
-golang:1.20-alpine
+moby/buildkit:buildx-stable-1
