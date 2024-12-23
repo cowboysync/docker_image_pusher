@@ -1,2 +1,2 @@
-python:alpine
-redis:alpine
+bitnami/minio:2024.10.29-debian-12-r0
+bitnami/minio-client:2024.10.29-debian-12-r0
