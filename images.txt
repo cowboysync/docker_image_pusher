@@ -1,1 +1,2 @@
-bitnami/flink:1.20.0-debian-12-r6
+openebs/provisioner-localpv:4.2.0
+openebs/linux-utils:4.1.0
