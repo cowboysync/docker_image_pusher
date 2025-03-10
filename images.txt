@@ -1,2 +1,1 @@
-openebs/provisioner-localpv:4.2.0
-openebs/linux-utils:4.1.0
+bitnami/kubectl:1.25.15
