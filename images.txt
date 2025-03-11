@@ -4,3 +4,7 @@ docker.io/grafana/grafana:11.5.2
 quay.io/kiwigrid/k8s-sidecar:1.30.0
 docker.io/curlimages/curl:8.9.1
 quay.io/brancz/kube-rbac-proxy:v0.18.2
+quay.io/prometheus/prometheus:v3.2.1
+quay.io/prometheus/alertmanager:v0.28.1
+quay.io/prometheus-operator/prometheus-operator:v0.80.1
+quay.io/thanos/thanos:v0.37.2
