@@ -1,2 +1,1 @@
-quay.io/prometheus-operator/admission-webhook:v0.80.1
-quay.io/prometheus-operator/prometheus-config-reloader:v0.80.1
+registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.5.1
