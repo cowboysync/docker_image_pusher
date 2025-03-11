@@ -1,1 +1,2 @@
-registry.k8s.io/ingress-nginx/kube-webhook-certgen:v1.5.1
+docker.io/bats/bats:v1.4.1
+docker.io/grafana/grafana-image-renderer:latest
