@@ -1,3 +1,1 @@
-docker.io/grafana/loki:3.4.2
-docker.io/bitnami/kubectl:1.9.11-r99
-docker.io/nginxinc/nginx-unprivileged:1.27-alpine
+kiwigrid/k8s-sidecar:1.30.1
