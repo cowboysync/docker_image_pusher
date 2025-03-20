@@ -1,3 +1,2 @@
-velero/velero:v1.15.2
-docker.io/bitnami/kubectl
-velero/velero-plugin-for-aws:v1.11.1
+docker.io/bitnami/kubectl:1.22.16
+docker.io/bitnami/kubectl:1.30.5
