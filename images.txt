@@ -1,2 +1,5 @@
-docker.io/bitnami/kubectl:1.22.16
-docker.io/bitnami/kubectl:1.30.5
+docker.io/drone/drone:2.12.1
+docker.io/drone/drone-runner-docker:1.8.1
+docker.io/docker:20-dind
+docker.io/drone/gc:1.0.0
+docker.io/drone/kubernetes-secrets:latest
