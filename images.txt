@@ -1,1 +1,1 @@
-redislabs/redisgraph:2.12.10
+bitnami/kubectl:1.30
