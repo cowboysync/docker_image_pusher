@@ -1,1 +1,1 @@
-node:18.20.8-slim
+node:16.20.2-slim
