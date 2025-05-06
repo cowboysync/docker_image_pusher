@@ -1,1 +1,1 @@
-node:16.20.2-slim
+xuxueli/xxl-job-admin:2.5.0
