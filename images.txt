@@ -1,1 +1,1 @@
-gitlab/gitlab-runner:v15.7.4
+bitnami/mysql:5.7.43
