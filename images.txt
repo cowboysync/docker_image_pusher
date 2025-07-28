@@ -1,1 +1,1 @@
-prom/mysqld-exporter:v0.14.0
+apolloconfig/apollo-portal:2.0.0
