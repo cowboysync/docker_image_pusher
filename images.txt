@@ -1,1 +1,1 @@
-apolloconfig/apollo-portal:2.0.0
+ubuntu:22.04
