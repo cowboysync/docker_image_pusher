@@ -1,1 +1,1 @@
-ubuntu:22.04
+rustdesk/rustdesk-server:1.1.14
