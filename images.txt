@@ -1,1 +1,1 @@
-bitnami/mysql:5.7.30
+ubuntu:16.04
