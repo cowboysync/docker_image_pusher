@@ -1,1 +1,1 @@
-ubuntu:25.10
+rustdesk/rustdesk-server:1.4.5-amd64
