@@ -1,1 +1,1 @@
-rustdesk/rustdesk-server:1.4.5-amd64
+eclipse-temurin:21
