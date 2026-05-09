@@ -1,1 +1,1 @@
-eclipse-temurin:21
+yuxiaoyao520/jrebel-license-active-server:latest
