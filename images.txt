@@ -1,1 +1,1 @@
-yuxiaoyao520/jrebel-license-active-server:latest
+rustdesk/rustdesk-server:1.1.15
